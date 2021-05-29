@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "json-diff": "^0.5.4",
+    "puppeteer": "^8.0.0",
+    "webhook-discord": "^3.7.7"
+  }
+}
